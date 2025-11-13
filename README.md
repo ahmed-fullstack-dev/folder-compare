@@ -2,6 +2,9 @@
 
 A simple utility to compare two folders and identify differences in files — such as same, difference files.
 
+## Keywords
+folder compare, folder comparison, file compare
+
 ## 🚀 Features
 - Compares two directories  
 - Detects difference or same content.
