@@ -1,6 +1,6 @@
 # Folder Compare Tool
 
-A simple utility to compare two folders and identify differences in files — such as missing, extra, or modified files.
+A simple utility to compare two folders and identify differences in files — such as same, difference files.
 
 ## 🚀 Features
 - Compares two directories  
